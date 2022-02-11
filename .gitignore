@@ -1,7 +1,6 @@
 .idea
 aot
 node_modules
-/build
 npm-debug.log
 *.map
 /docs/build
